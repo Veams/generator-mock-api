@@ -49,7 +49,7 @@ This is pretty easy, let's just compose them:
 
 **Main Generator** 
 
-``` nodejs
+``` js
 module.exports = class extends Generator {
 
     initializing() {
