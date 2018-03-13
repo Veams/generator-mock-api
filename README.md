@@ -63,12 +63,12 @@ module.exports = class extends Generator {
 		this.log(`Welcome to the my main generator ${chalk.red('generator-single-page-app')}!`);
 		
 		this.composeWith(require.resolve('generator-mock-api'), {
-            veamsFile: this.veamsFile,
-            babelFile: this.babelFile,
-            pkgFile: this.pkgFile,
-            execInstall: false,
-            showPrompt: true
-        });
+		    veamsFile: this.veamsFile,
+		    babelFile: this.babelFile,
+		    pkgFile: this.pkgFile,
+		    execInstall: false,
+		    showPrompt: true
+		});
 	}
 
 	configuring() {
