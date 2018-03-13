@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Sebastian Fitzner",
+      "authorEmail": "sebastian@veams.org",
+      "authorUrl": ""
+    }
+  }
+}

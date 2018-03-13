@@ -1,0 +1,13 @@
+{
+	"blueprints": {
+	},
+	"entries": {
+	},
+	"insertpoints": [],
+	"paths": {
+		"env": "environments",
+		"config": "configs"
+	},
+	"ports": {
+	}
+}
