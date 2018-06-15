@@ -1,7 +1,6 @@
 # generator-mock-api (`@veams/generator-mock-api`)
-> Main-Generator :: Veams generator to scaffold a mock api server in ExpressJS.
 
-This generator can standalone as Main-Generator or in combination with other Main-Generators. 
+> Main-Generator :: Veams generator to scaffold a mock api server in ExpressJS.
 
 ## Main-Generators in Veams 
 
